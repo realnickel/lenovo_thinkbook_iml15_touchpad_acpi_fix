@@ -84,7 +84,7 @@
  *     Compiler ID      "INTL"
  *     Compiler Version 0x20160422 (538313762)
  */
-DefinitionBlock ("", "DSDT", 2, "LENOVO", "CFL     ", 0x20170001)
+DefinitionBlock ("", "DSDT", 2, "LENOVO", "CFL     ", 0x20170002)
 {
     External (_GPE.HLVT, MethodObj)    // 0 Arguments
     External (_GPE.ITBH, MethodObj)    // 0 Arguments
