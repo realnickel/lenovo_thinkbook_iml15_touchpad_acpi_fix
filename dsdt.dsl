@@ -47889,7 +47889,7 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CFL     ", 0x20170001)
                 Name (_ADR, Zero)  // _ADR: Address
                 Name (IDAD, Zero)
                 Name (HID2, Zero)
-                Name (_HID, "XXXX0000")  // _HID: Hardware ID
+                Name (_HID, "ELAN062F")  // _HID: Hardware ID
                 Name (_CID, "PNP0C50" /* HID Protocol Device (I2C bus) */)  // _CID: Compatible ID
                 Name (_UID, One)  // _UID: Unique ID
                 Name (_S0W, 0x03)  // _S0W: S0 Device Wake State
