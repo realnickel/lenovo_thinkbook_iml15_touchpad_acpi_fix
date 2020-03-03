@@ -2,7 +2,7 @@
 
 This is a temporary fix for Lenovo Thinkbook 14-IML and 15-IML models.
 
-This ACPI table override is intended to bring full functional operation to touchpad (multi-touch, two-finger scroll, etc.)
+This ACPI table override is intended to bring full functional operation to touchpad (multi-touch, two-finger scroll, etc.) in Linux.
 
 Please refer to https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1853277 for details.
 
